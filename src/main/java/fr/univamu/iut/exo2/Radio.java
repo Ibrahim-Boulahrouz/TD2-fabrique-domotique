@@ -1,4 +1,4 @@
-package fr.univamu.iut.exo1;
+package fr.univamu.iut.exo2;
 
 public class Radio implements Connectable {
 
